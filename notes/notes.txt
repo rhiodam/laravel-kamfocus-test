@@ -1,0 +1,32 @@
+
+
+
+
+22 04
+-- 1 bulan dari
+
+
+bisa transaksi
+bayar di mana gitu
+
+
+
+------
+
+models:
+
+- user
+- product | sku , id , cat_id
+- category
+- cart
+-
+
+
+
+counter user
+
+
+cookies buat marketing
+
+
+
